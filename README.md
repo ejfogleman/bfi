@@ -1,5 +1,10 @@
 # Brainf--- interpreter in Python
 
+References
+- [https://en.wikipedia.org/wiki/Brainf---](https://en.wikipedia.org/wiki/Brainfuck)
+- [https://esolangs.org/wiki/Brainf---](https://esolangs.org/wiki/Brainfuck)
+- [https://gist.github.com/roachhd/dce54bec8ba55fb17d3a](https://gist.github.com/roachhd/dce54bec8ba55fb17d3a)
+
 ## Usage
 ### From command line
 
