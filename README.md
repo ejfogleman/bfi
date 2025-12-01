@@ -1,4 +1,4 @@
-# Brainf*** interpreter in Python
+# Brainf--- interpreter in Python
 
 ## Usage
 ### From command line
